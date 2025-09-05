@@ -1,6 +1,8 @@
-# ENGGEN-769-Research-Methods-for-Engineers
-The course itself is divided into four parts.
-The first part is called ‘The World of research’. This part, as the title suggests, is intended to give you good sense of the context of the world of research and how to position yourself as a researcher, and your research, within this context. We will start by talking about negotiating supervision, the ethics of research and the academic publishing environment, before moving on to strategies for sorting and making sense of all of the information out there in such a way to allow for the identification of research gaps, and ultimately the important questions that need addressing using research.
-In the second part of the course, we will focus on research design.  This is about turning a research idea into a research question and choosing a suitable methodology for answering your questions.  We will also cover a bit about scientific writing, a key part of communicating your findings.
-In the third part, we get stuck into the details of qualitative and quantitative methods so that you gain an appreciation of the value that each brings to the development of knowledge and become comfortable with both types of approaches.  By the end of this part of the course, you should have a pretty good sense of the type of methodology that might be appropriate to address your research questions, and in the case of quantitative research, be able to apply some simple statistics to your data to help in drawing valid conclusions from your data.
-The fourth part of the course is focussed on presenting your result to the world. In other words, how to go about delivering your message in such a way that it creates a strong impact and is memorable for your audience.  Specifically, we will look at how to present findings both in oral and also in poster format in such a way that it is impactful.
+# Large Model Knowledge System 大模型知识体系
+The course itself is divided into ten parts.
+课程本身分为十个部分。
+
+The notes on learning big models cover the column "Machine Learning" in the knowledge system of big models / the column "Deep Learning PyTorch & TensorFlow" / the column "Reinforcement Learning" / the column "Transformer Architecture" / the column "Fine-tuning Deployment" / the column "Multimodal Mockup" etc.
+大模型学习笔记，涵盖了大模型的知识体系中的《机器学习》专栏/《深度学习PyTorch&TensorFlow》专栏/《强化学习》专栏/《Transformer架构》专栏/《微调部署》专栏/《多模态大模型》专栏等
+
+
